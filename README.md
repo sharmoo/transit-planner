@@ -13,6 +13,7 @@ Tests can be found in `server/spec/api/...`. The structure mirrors the actual ap
 
 ```
 cd src/server
+npm install
 npm test
 ```
 
